@@ -6,7 +6,7 @@ document.getElementById('currentDay').innerHTML=currentDate;
 var mainContainerEl = document.querySelector('#main-container');
 
 let schHour  = [' 9 am', '10 am', '11 am', '12 pm', ' 1 pm', ' 2 pm', ' 3 pm', ' 4 pm', ' 5 pm'];
-let schTask = "Tasks go Here";
+let schTask = "Tasks go Here as you can see";
 let schBtn = "Edit";
 
 var htmlContent = '';
